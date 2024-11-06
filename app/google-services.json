@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526333312826",
+    "project_id": "booktracker-c3883",
+    "storage_bucket": "booktracker-c3883.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526333312826:android:1376482cddcfbbe50d1a03",
+        "android_client_info": {
+          "package_name": "com.example.booktracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwsk7URieSauRiDRNwSuvAJ6xA1YHpZF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
